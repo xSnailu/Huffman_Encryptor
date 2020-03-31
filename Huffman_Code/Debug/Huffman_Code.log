@@ -1,0 +1,6 @@
+﻿  Huffman_Code.cpp
+C:\Users\xsnailu\Desktop\Huffman\Huffman_Code\Huffman_Code\Huffman_Code.cpp(123,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\xsnailu\Desktop\Huffman\Huffman_Code\Huffman_Code\Huffman_Code.cpp(128,14): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\xsnailu\Desktop\Huffman\Huffman_Code\Huffman_Code\Huffman_Code.cpp(167,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\xsnailu\Desktop\Huffman\Huffman_Code\Huffman_Code\Huffman_Code.cpp(203,20): warning C4018:  '<': signed/unsigned mismatch
+  Huffman_Code.vcxproj -> C:\Users\xsnailu\Desktop\Huffman\Huffman_Code\Debug\Huffman_Code.exe
